@@ -2,13 +2,7 @@
 <h1>Car Rental Backend</h1>
 
 
-![GitHub Issues](https://img.shields.io/github/issues/mohit-dhote/car-rental-backend)
-![GitHub License](https://img.shields.io/github/license/mohit-dhote/car-rental-backend)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mohit-dhote/car-rental-backend)
-![GitHub Forks](https://img.shields.io/github/forks/mohit-dhote/car-rental-backend)
-![GitHub Stars](https://img.shields.io/github/stars/mohit-dhote/car-rental-backend)
-
-| [English](README.md) | [Turkish](./docs/README_TR.md) |
+| [English](README.md) 
 
 </div>
 
