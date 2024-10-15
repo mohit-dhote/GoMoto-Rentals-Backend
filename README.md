@@ -48,13 +48,13 @@ JpaRepository is used for database operations, allowing efficient management of 
 
 ## Project Details
 
-![Project Details](./docs/images/carrentaldetails.png)
+![Project Details](docs/carrentaldetails.png)
 
 ### Database
 
 - Entity Models
 
-![Entity Models](./docs/images/rentacar.png)
+![Entity Models](docs/rentacar.png)
 
 ## Built With
 
