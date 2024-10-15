@@ -2,7 +2,7 @@
 <h1>Car Rental Backend</h1>
 
 
-| [English](README.md) 
+| [English](README.md) |
 
 </div>
 
